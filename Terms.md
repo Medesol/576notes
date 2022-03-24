@@ -1,0 +1,5 @@
+- psycoacoustics: **心理声学**（Psychoacoustics）是研究人对声音感知的学科，即研究人对声音包括言语、音乐的生理和心理反应的科学，是[心理物理学](https://zh.wikipedia.org/wiki/%E5%BF%83%E7%90%86%E7%89%A9%E7%90%86%E5%AD%A6 "心理物理学")的分支学科。
+- entropy: randomness in the information. The more random, the higher entropy.
+- distortion: 失真。
+- DPCM: Differential pulse-code modulation
+- Closed loop: 
