@@ -3,3 +3,7 @@
 - distortion: 失真。
 - DPCM: Differential pulse-code modulation
 - Closed loop: 
+- wavelets: 小波，对应的是傅立叶分析中的弦波是大波。小波是一个衰减迅速的震荡。
+- Dithering：抖动， 用于降低量化误差。
+- halftoning：半色调 
+- GOPS: group of pictures 
