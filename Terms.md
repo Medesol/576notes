@@ -7,3 +7,4 @@
 - Dithering：抖动， 用于降低量化误差。
 - halftoning：半色调 
 - GOPS: group of pictures 
+- CTU: coding tree units
