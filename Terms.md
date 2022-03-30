@@ -8,3 +8,12 @@
 - halftoning：半色调 
 - GOPS: group of pictures 
 - CTU: coding tree units
+- Diaphragm: 振动膜
+- Solenoid: 螺线管
+- Decible: 分贝
+- Compression ratio: $\frac{Uncompressed Data}{Compressed Data}$
+- Cochlea: 耳蜗
+- OCR：Optical character recognition
+- MPEG: Moving Picture Expert Group 
+- Transparent bitrate: 在这个bitrate之上是无损，低于这个bitrate则是有损
+- codec：编解码器
