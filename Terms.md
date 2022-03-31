@@ -17,3 +17,7 @@
 - MPEG: Moving Picture Expert Group 
 - Transparent bitrate: 在这个bitrate之上是无损，低于这个bitrate则是有损
 - codec：编解码器
+- Monochromatic: 单色的
+- Antenna: 天线
+- Commutative: 可交换的
+- Topological surgery: 把重复的边剪开，用于压缩3D图形中重复的边
