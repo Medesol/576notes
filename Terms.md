@@ -21,3 +21,4 @@
 - Antenna: 天线
 - Commutative: 可交换的
 - Topological surgery: 把重复的边剪开，用于压缩3D图形中重复的边
+- Embossing: 印压浮凸图案

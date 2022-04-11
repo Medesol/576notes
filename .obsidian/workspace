@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "class 9.md",
+            "file": "vocabulary.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class 9.md",
+                "file": "vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,17 +79,8 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "76c6816c00d78df9",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,15 +89,15 @@
   },
   "active": "ec4162f8ce390efb",
   "lastOpenFiles": [
-    "class 9.md",
-    "Terms.md",
     "vocabulary.md",
-    "class 8.md",
+    "Terms.md",
+    "Sample Question.md",
     "routine of lossy image compression.png",
-    "class 7.md",
-    "class 5.md",
-    "class 4.md",
     "JPEG pipline.png",
-    "class 3.md"
+    "complexity of video compression.png",
+    "class 8.md",
+    "class 7.md",
+    "class 6.md",
+    "class 9.md"
   ]
 }
