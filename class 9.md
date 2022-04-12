@@ -59,3 +59,5 @@ $$\#\ of\ faces = 2\times\#\ of\ vertices$$
 简化多边形，去掉多边形中的一些点，同时尽量让其形状不变
 - Progressive meshes (remove vertex and connectivity one by one)
 	- 去掉一条边和边上的两个点，用这两个点的中点代替。根据flatness来决定去除哪条边
+	- 存储简化后的多面体和简化的每一步
+	- 可以从前两者中逐步还原出原多面体

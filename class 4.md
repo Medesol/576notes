@@ -1,4 +1,4 @@
-Compress only data but preserve information
+VCompress only data but preserve information
 - data: a stream of bits
 - information: the organization of data
 

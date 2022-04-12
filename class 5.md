@@ -39,3 +39,4 @@ What does this pipeline give us? It gives us bitrate syntax.
 Why 8\*8 in 640\*480*? Low enough so that the pixels were correlated.
 
 缺点：一块一块的，block之间会有边界，所以引入JPEG 2000
+## Progressive Encoding 
